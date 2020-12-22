@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vitocoms>
+  <Vitocom>
+    <Name>Vitocom 200 LAN</Name>
+    <ID>Vitocom200_LAN</ID>
+    <Description></Description>
+    <EventTypeLONDeviceID>ecnsysVitocomAnlagennummer</EventTypeLONDeviceID>
+    <EventTypeLONMemberID>ecnsysVitocomTeilnehmernummer</EventTypeLONMemberID>
+    <EventTypeLONNeuronID>ecnsysVitocomNeuronID</EventTypeLONNeuronID>
+  </Vitocom>
+  <Vitocom>
+    <Name>Vitocom 300</Name>
+    <ID>Vitocom300</ID>
+    <Description></Description>
+    <EventTypeLONDeviceID>ecnsysVitocomAnlagennummer</EventTypeLONDeviceID>
+    <EventTypeLONMemberID>ecnsysVitocomTeilnehmernummer</EventTypeLONMemberID>
+    <EventTypeLONNeuronID>ecnsysVitocomNeuronID</EventTypeLONNeuronID>
+  </Vitocom>
+  <Vitocom>
+    <Name>Vitocom 300</Name>
+    <ID>Vitocom300_10</ID>
+    <Description></Description>
+    <EventTypeLONDeviceID>ecnsysVitocomAnlagennummer</EventTypeLONDeviceID>
+    <EventTypeLONMemberID>ecnsysVitocomTeilnehmernummer</EventTypeLONMemberID>
+    <EventTypeLONNeuronID>ecnsysVitocomNeuronID</EventTypeLONNeuronID>
+  </Vitocom>
+  <Vitocom>
+    <Name>Vitocom 300 LAN</Name>
+    <ID>Vitocom300_LAN</ID>
+    <Description></Description>
+    <EventTypeLONDeviceID>ecnsysVitocomAnlagennummer</EventTypeLONDeviceID>
+    <EventTypeLONMemberID>ecnsysVitocomTeilnehmernummer</EventTypeLONMemberID>
+    <EventTypeLONNeuronID>ecnsysVitocomNeuronID</EventTypeLONNeuronID>
+  </Vitocom>
+</Vitocoms>

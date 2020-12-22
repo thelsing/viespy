@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MCConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SDKStatisticHeader>true</SDKStatisticHeader>
+  <CompanyID>24</CompanyID>
+  <TextresourcePath>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\mobileclient\config\Textresource.xml</TextresourcePath>
+  <CustomVersion>0.0.0.0</CustomVersion>
+  <MinTrendingInterval>500</MinTrendingInterval>
+  <MaxTrendingInterval>2000</MaxTrendingInterval>
+  <ecnSoapURL>http://localhost/ecnSOAP/ecnSOAP.asmx</ecnSoapURL>
+  <SqlLocalDBInstanceName>v11.0</SqlLocalDBInstanceName>
+  <PathIdentCompleted>true</PathIdentCompleted>
+  <AppSizeWidth>1000</AppSizeWidth>
+  <AppSizeHeight>700</AppSizeHeight>
+  <AppLocationX>0</AppLocationX>
+  <AppLocationY>0</AppLocationY>
+  <ProtocolActive>true</ProtocolActive>
+  <ProtocolWriteToFile>true</ProtocolWriteToFile>
+  <ProtocolDirectory>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\mobileclient\log</ProtocolDirectory>
+  <ProtocolMessageEntryType>Error|Information|Warning|Debug</ProtocolMessageEntryType>
+  <ProtocolAppend>false</ProtocolAppend>
+  <ServerCompanyId>24</ServerCompanyId>
+  <ServerUsername>Administrator@mobilefrost.com</ServerUsername>
+  <ServerPassword>Administrator@mobilefrost.com</ServerPassword>
+  <ServerSoapUrl>http://localhost/ecnSOAP/ecnSOAP.asmx</ServerSoapUrl>
+  <ClientUseClientWebUrl>false</ClientUseClientWebUrl>
+  <ClientCompanyId>24</ClientCompanyId>
+  <ClientUsername>Administrator@mobilefrost.com</ClientUsername>
+  <ClientPassword>Administrator@mobilefrost.com</ClientPassword>
+  <ClientWebUrl>http://localhost/viessmann/Login.aspx</ClientWebUrl>
+  <OptionVersionCheck>true</OptionVersionCheck>
+  <OptionConnectionStart>true</OptionConnectionStart>
+  <SerialPort>COM4</SerialPort>
+  <ConfigPath>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\mobileclient\config</ConfigPath>
+  <CollectInterval>15</CollectInterval>
+  <HeartBeat>1</HeartBeat>
+  <TrendingCollectInterval>8</TrendingCollectInterval>
+  <TrendingGlobalCollectIntervalFactor>10</TrendingGlobalCollectIntervalFactor>
+  <ApplicationShutdownWait>2000</ApplicationShutdownWait>
+  <IISExpressVesion />
+  <IISExpressLogOutputFilePath />
+  <IISExpressLogErrorFilePath />
+  <IISExpressShowSysTray>false</IISExpressShowSysTray>
+  <WebSitePhysicalPath>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\Web</WebSitePhysicalPath>
+  <WebSitePort>18247</WebSitePort>
+  <WebSiteConfigFilePath>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\Web\iis.vitosoft.web.config</WebSiteConfigFilePath>
+  <SDKConnectionType>Serial</SDKConnectionType>
+  <SDKStatisticActive>false</SDKStatisticActive>
+  <SDKStatisticLevel>1</SDKStatisticLevel>
+  <SDKStatisticDelimiter>Semicolon</SDKStatisticDelimiter>
+  <SDKStatisticDirectory>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\mobileclient\log</SDKStatisticDirectory>
+  <SDKEventOptimisation>true</SDKEventOptimisation>
+  <SupportDocPath>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\mobileclient\support</SupportDocPath>
+  <SupportLicenceURL>https://www.viessmann.com/wps/myportal/vi.Daten-Kommunikation.Vitosoft300</SupportLicenceURL>
+  <SupportSQLServerNotInstalledURL>supportinformation.htm</SupportSQLServerNotInstalledURL>
+  <SupportSQLServerNotRunningURL>supportinformation.htm</SupportSQLServerNotRunningURL>
+  <SupportSQLServerNotReachableURL>supportinformation.htm</SupportSQLServerNotReachableURL>
+  <SupportDatabaseURL>supportinformation.htm</SupportDatabaseURL>
+  <SupportWebserverURL>supportinformation.htm</SupportWebserverURL>
+  <SupportAutologinURL>supportinformation.htm</SupportAutologinURL>
+  <VRIMasterWebServiceURL>https://update-vitosoft.viessmann.com/vrimaster/VRIMasterWebService.asmx</VRIMasterWebServiceURL>
+  <VRIMasterDownloadDocumentUserId>1</VRIMasterDownloadDocumentUserId>
+  <SWSkippedVersion>0.0.0.0</SWSkippedVersion>
+  <SWUpdatePath>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\swupdate</SWUpdatePath>
+  <SWUpdateIndexFilePath>http://update.vitosoft.de/vrimaster/viupdates/</SWUpdateIndexFilePath>
+  <MCExceptionLogActive>false</MCExceptionLogActive>
+  <VSMConnectorLogActive>false</VSMConnectorLogActive>
+  <VSMConnectorLogDirectory>C:\Program Files\Viessmann Vitosoft 300 SID1\ServiceTool\mobileclient\log</VSMConnectorLogDirectory>
+  <ShowConnectionDialog>true</ShowConnectionDialog>
+  <ShowReadingDatapoints>true</ShowReadingDatapoints>
+  <UseQuickStarter>false</UseQuickStarter>
+  <HydraulicCalibration>
+    <ValveLearnTimeout>3600000</ValveLearnTimeout>
+    <ValveResponseTimeout>120000</ValveResponseTimeout>
+    <GetDataTimeout>45000</GetDataTimeout>
+    <TimeoutMinutes>5</TimeoutMinutes>
+    <LoggingActive>false</LoggingActive>
+    <XPValue>2</XPValue>
+    <DeltaP>300</DeltaP>
+    <MinPumpSpeedVD3XX>10</MinPumpSpeedVD3XX>
+    <MinPumpSpeedReducedVD3XX>20</MinPumpSpeedReducedVD3XX>
+    <ReadSensorValuesCollectInterval>4</ReadSensorValuesCollectInterval>
+  </HydraulicCalibration>
+  <VSMConnectorMonitoring>
+    <MonitoringActive>true</MonitoringActive>
+    <CollectTaskMonitoringActive>true</CollectTaskMonitoringActive>
+    <TrendingTaskMonitoringActive>true</TrendingTaskMonitoringActive>
+    <MonitoringInterval>10</MonitoringInterval>
+    <CollectTaskKeepAliveFactor>60</CollectTaskKeepAliveFactor>
+    <TrendingTaskKeepAliveFactor>12</TrendingTaskKeepAliveFactor>
+  </VSMConnectorMonitoring>
+  <VSMSDKConfig>
+    <MonitoringActive>true</MonitoringActive>
+    <MonitoringInterval>2</MonitoringInterval>
+    <RequestManagerMonitoringActive>true</RequestManagerMonitoringActive>
+    <RequestManagerKeepAliveFactor>2</RequestManagerKeepAliveFactor>
+    <ExceptionLogActive>false</ExceptionLogActive>
+    <VSManagerNotReadyMaxCount>20</VSManagerNotReadyMaxCount>
+    <DeviceIdentUseHardwareIndex>false</DeviceIdentUseHardwareIndex>
+    <NRPConfig>
+      <NRPIPAddress>10.45.161.1</NRPIPAddress>
+      <NRPPort>45317</NRPPort>
+      <NRPMatchingTimeoutActive>true</NRPMatchingTimeoutActive>
+      <NRPMatchingTimeoutMin>1000</NRPMatchingTimeoutMin>
+      <NRPMatchingTimeoutMax>5000</NRPMatchingTimeoutMax>
+      <NRPMatchingTimeoutStep>1000</NRPMatchingTimeoutStep>
+      <NRPReadDataSyncLoopCount>30</NRPReadDataSyncLoopCount>
+      <NRPReadDataSyncSleepInterval>100</NRPReadDataSyncSleepInterval>
+      <NRPWiFiCheckActive>true</NRPWiFiCheckActive>
+      <NRPStartVS2Mode>false</NRPStartVS2Mode>
+      <NRPWiFiOverwriteNetworkProfileIfExist>false</NRPWiFiOverwriteNetworkProfileIfExist>
+      <NRPWiFiAccessPointNameCheckActive>true</NRPWiFiAccessPointNameCheckActive>
+      <NRPWiFiAutoConnect>true</NRPWiFiAutoConnect>
+      <NRPWiFiScan>true</NRPWiFiScan>
+      <NRPWiFiWaitAfterScan>1000</NRPWiFiWaitAfterScan>
+    </NRPConfig>
+  </VSMSDKConfig>
+</MCConfig>

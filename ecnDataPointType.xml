@@ -1,0 +1,3479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataPointTypes>
+  <DataPointType>
+    <ID>ecnStatusDataPoint</ID>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200GW1</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 GW1</Description>
+    <Identification>20A4</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300GW2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 GW2</Description>
+    <Identification>20A5</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1M</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M - Witterungsgeführte, digitale Heizkreisregelung für einen 
+Heizkreis mit Mischer für die Montage an Viessmann Mischern.</Description>
+    <Identification>20B4</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100GC1</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 GC1</Description>
+    <Identification>20A0</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_05</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>323432333236</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1W</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung.</Description>
+    <Identification>20AA</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Therm Typ B501, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>313834653334</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_KampStrup_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Kampstrup, Typ 401, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>326432633032</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_ABB_02_S02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma ABB, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>636434653038_S02</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Siemens_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Siemens, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>323534643031</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitocom300</ID>
+    <Identification>208A</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>3</ControllerType>
+    <ErrorType>2</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1</Description>
+    <Identification>20B8</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Siemens_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Siemens, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>323534643032</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHC2</ID>
+    <Identification>20C4</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHO1</ID>
+    <Identification>20C5</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_F_R1_ETCPU</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-F (Direktfax)</Description>
+    <Identification>2088</Identification>
+    <IdentificationExtension>37343037303931</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_F_R1</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-F (Direktfax)</Description>
+    <Identification>2088</Identification>
+    <IdentificationExtension>37343530353333</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>V150KB1</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 150 KB1 Waermebedarfsgefuehrte, digitale Kesselkreisregelung, 
+für 1 Heizkreis ohne Mischer</Description>
+    <Identification>2092</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis + Gyr GmbH, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3W</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung.</Description>
+    <Identification>20AB</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100KC2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 KC2 Digitale Kesselregelung
+</Description>
+    <Identification>2091</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0105</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW2 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 1 Heizkreis mit Mischer</Description>
+    <Identification>2098</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_F</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-F (Fax über Telebox 400)</Description>
+    <Identification>2088</Identification>
+    <IdentificationExtension>37343530353330</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_F_ETCPU</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-F (Fax über Telebox 400))</Description>
+    <Identification>2088</Identification>
+    <IdentificationExtension>37343037303930</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_F_I</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-F (Exportgerät für Italien)</Description>
+    <Identification>2088</Identification>
+    <IdentificationExtension>37343532353330</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_F_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-F (Exportgerät für Österreich)</Description>
+    <Identification>2088</Identification>
+    <IdentificationExtension>37343533353330</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_F_CH</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-F (Exportgerät für die Schweiz)</Description>
+    <Identification>2088</Identification>
+    <IdentificationExtension>37343531353330</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_BT2</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgeraet mit Bedienteil BT2 und Feuerungsautomat LGM29, alle 
+Software-Indizes</Description>
+    <Identification>2054</Identification>
+    <IdentificationExtension>00FF</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VWMS_00</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES im Wandmontagesockel WMS und 
+Feuerungsautomat LGM29, ab Softwareindex 0</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0800</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBT2_00</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BT2 und Feuerungsautomat LGM29, ab 
+Softwareindex 0 Technische Produktbeschreibung: Konstantregelung</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>1000</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBES_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES und Feuerungsautomat LGM29, ab 
+Softwareindex 03</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0203</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBES_21</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES und Feuerungsautomat LGM29, ab 
+Softwareindex 21</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0221</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBES_35</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES und Feuerungsautomat LGM29, ab 
+Softwareindex 35</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0235</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBT2_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BT2 und Feuerungsautomat LGM29, ab 
+Softwareindex 03 Technische Produktbeschreibung: Konstantregelung</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>1003</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBEM_36</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BEM und Feuerungsautomat LGM29, ab 
+Softwareindex 36</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0136</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBEM_21</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BEM und Feuerungsautomat LGM29, ab 
+Softwareindex 21</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0121</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300KW3</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 KW3 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 2 Heizkreisen mit Mischer</Description>
+    <Identification>209C</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VWMS_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES im Wandmontagesockel WMS und 
+Feuerungsautomat LGM29,
+ab Softwareindex 03</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0803</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBES_36</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES und Feuerungsautomat LGM29, ab 
+Softwareindex 36</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0236</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBT2_36</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BT2 und Feuerungsautomat LGM29, ab 
+Softwareindex 36 Technische Produktbeschreibung: Konstantregelung</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>1036</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VWMS_36</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES im Wandmontagesockel WMS und 
+Feuerungsautomat LGM29,
+ ab Softwareindex 36</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0836</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VWMS_35</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES im Wandmontagesockel WMS und 
+Feuerungsautomat LGM29,
+ ab Softwareindex 35</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0835</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBEM_35</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BEM und Feuerungsautomat LGM29, ab 
+Softwareindex 35</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0135</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VWMS_21</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES im Wandmontagesockel WMS und 
+Feuerungsautomat LGM29, ab Softwareindex 21</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0821</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBT2_21</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BT2 und Feuerungsautomat LGM29, ab 
+Softwareindex 21 Technische Produktbeschreibung: Konstantregelung</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>1021</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBT2_35</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BT2 und Feuerungsautomat LGM29, ab 
+Softwareindex 35 Technische Produktbeschreibung: Konstantregelung</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>1035</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBEM_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BEM und Feuerungsautomat LGM29, ab 
+Softwareindex 03</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0103</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Schlumberger_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Schlumberger, Typ CF50, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>383234643032</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VDensHC1</ID>
+    <Identification>20C0</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>363835303239</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0aac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW1</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW1 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer</Description>
+    <Identification>2094</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>04b400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 09 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>094200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 08 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>084100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VDensHO1</ID>
+    <Identification>20C2</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VDensHC2</ID>
+    <Identification>20C1</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 10 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0a4100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1_B</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 11 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0b4200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 06 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>064200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 08 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>084200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 10 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0a4200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 05 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>054200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 07 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>074200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 07 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>074100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 09 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>094100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 05 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>054100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK1</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK1 als Teilnehmer 04 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>044200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2_B</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 11 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0b4100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 06 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>064100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>04aa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBEM_00</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BEM und Feuerungsautomat LGM29, ab 
+Softwareindex 0</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW2 (Kaskadenregelung für Wandgeräte)</Description>
+    <Identification>20BA</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V100GC1</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 GC1 über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>02a000</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>04ac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_ABB_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma ABB, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>636434653038</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>05ad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>06ac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>04ab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>04ad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>09ac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>06b400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>06aa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>08ac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>09ab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V100GC1_3</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 GC1 über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>03a000</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>08ad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>08aa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>06ad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S_B</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0bad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>07b400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>05ab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>07ad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0ab400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>06ab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>05aa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0aad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M_B</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0bb400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S_B</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0bac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>09b400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>07ac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>05b400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>09aa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_M2_3</ID>
+    <Identification>2000</Identification>
+    <IdentificationExtension>034002</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>07ab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3S_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>09ad00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>07aa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>08ab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W_B</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0baa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1W_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0aaa00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1S_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>05ac00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W_B</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0bab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK1M_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>08b400</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V050HK3W_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0aab00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>GWG_VBES_00</ID>
+    <Description>Allgemeine Produktbeschreibung: Gaswandgerät mit VR20 Regelung, Bedienteil BES und Feuerungsautomat LGM29, ab 
+Softwareindex 0</Description>
+    <Identification>2053</Identification>
+    <IdentificationExtension>0200</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Schlumberger_01_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Schlumberger, Typ CF50, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>383234643032_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Schlumberger_01_S02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Schlumberger, Typ CF50, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>383234643032_S02</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_ABB_02_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma ABB, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>636434653038_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Siemens_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Siemens, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>323534643032</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Schlumberger_01_S03</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Schlumberger, Typ CF50, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>383234643032_S03</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_02_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>643331303031_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC2</ID>
+    <Identification>20CA</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC2</ID>
+    <Identification>20C7</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHO1</ID>
+    <Identification>20C8</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1</ID>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC1</ID>
+    <Identification>20C6</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1</ID>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>363835303236</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM100_DEKM_R1</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 100 Release 1999</Description>
+    <Identification>2081</Identification>
+    <IdentificationExtension>37343530353337</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM100_DEKM_R2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 100 Release 2001 Technische Produktbeschreibung: mit Calllback-Funktion</Description>
+    <Identification>2081</Identification>
+    <IdentificationExtension>37313432303537</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_M</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-M</Description>
+    <Identification>2081</Identification>
+    <IdentificationExtension>37343530353336</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_M_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-M (A)</Description>
+    <Identification>2081</Identification>
+    <IdentificationExtension>37343533353336</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>DEKATEL_M_CH</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekatel-M (CH)</Description>
+    <Identification>2081</Identification>
+    <IdentificationExtension>37343531353336</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM300_DEKF_R2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 300 FA2</Description>
+    <Identification>2089</Identification>
+    <IdentificationExtension>37343530353334</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Calec_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>623430353830</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_ABB_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma ABB, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>343230343038</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>643331303031</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_M2</ID>
+    <Identification>2000</Identification>
+    <IdentificationExtension>024002</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_E</ID>
+    <Identification>2000</Identification>
+    <IdentificationExtension>01400e</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_V300KW3</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 KW3 über Viessmann-2-Draht-Bus an Vitocom 300 FA2</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>019c00</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_M1</ID>
+    <Identification>2000</Identification>
+    <IdentificationExtension>014001</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Solartrol_M</ID>
+    <Identification>2000</Identification>
+    <IdentificationExtension>0b6000</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>HV_GWG</ID>
+    <Identification>2000</Identification>
+    <IdentificationExtension>015300</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Dekamatik_HK2</ID>
+    <Description>Allgemeine Produktbeschreibung: Dekamatik-HK2 als Teilnehmer 04 am Viessmann-2-Draht-Bus</Description>
+    <Identification>2000</Identification>
+    <IdentificationExtension>044100</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM300_ETCPU</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 300 FA2 (Ersatzteil) mit Sachnummer 7405 111</Description>
+    <Identification>2089</Identification>
+    <IdentificationExtension>37343035313131</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM100_DEKM_R3</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 100 Release 2003 Technische Produktbeschreibung: mit Calllback-Funktion</Description>
+    <Identification>2081</Identification>
+    <IdentificationExtension>37313738313838</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHC1</ID>
+    <Identification>20C3</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0103</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM100_DEKM_R1_EXP</ID>
+    <Identification>2081</Identification>
+    <IdentificationExtension>37343135333233</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM300_ETCPU2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 300 FA2 (Ersatzteil) mit Sachnummer 7818 844</Description>
+    <Identification>2089</Identification>
+    <IdentificationExtension>37383138383434</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM300_ETCPU3</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 300 FA2 (Ersatzteil) mit Sachnummer 7415 228</Description>
+    <Identification>2089</Identification>
+    <IdentificationExtension>37343135323238</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM300_ETCPU4</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocom 300 FA2 (Ersatzteil) mit Sachnummer 7178 188</Description>
+    <Identification>2089</Identification>
+    <IdentificationExtension>37313738313838</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S02</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_04_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>363835303031_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_04</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>363835303031</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300KW3_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 KW3 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 2 Heizkreisen mit Mischer Technische Produktbeschreibung: Vitotronic 300 KW3 Softwarestand 5 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus), kein Unterschied der Daten zu Softwarestand 4</Description>
+    <Identification>209C</Identification>
+    <IdentificationExtension>0105</IdentificationExtension>
+    <IdentificationExtensionTill>0105</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW2_4</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW2 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 1 Heizkreis mit Mischer Technische Produktbeschreibung: Vitotronic 200 KW2 Softwarestand 4 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus)</Description>
+    <Identification>2098</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0104</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V150KB1_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 150 KB1 Waermebedarfsgefuehrte, digitale Kesselkreisregelung, 
+für 1 Heizkreis ohne Mischer Technische Produktbeschreibung: Vitotronic 150 KB1 Softwarestand 5 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus), kein Unterschied der Daten zu Softwarestand 4</Description>
+    <Identification>2092</Identification>
+    <IdentificationExtension>0105</IdentificationExtension>
+    <IdentificationExtensionTill>0105</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300KW3_4</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 KW3 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 2 Heizkreisen mit Mischer Technische Produktbeschreibung: Vitotronic 300 KW3 Softwarestand 4 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus)</Description>
+    <Identification>209C</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0104</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V150KB1_4</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 150 KB1 Waermebedarfsgefuehrte, digitale Kesselkreisregelung, 
+für 1 Heizkreis ohne Mischer Technische Produktbeschreibung: Vitotronic 150 KB1 Softwarestand 4 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus)</Description>
+    <Identification>2092</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0104</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW1_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW1 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer Technische Produktbeschreibung: Vitotronic 200 KW1 Softwarestand 5 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus), kein Unterschied der Daten zu Softwarestand 4</Description>
+    <Identification>2094</Identification>
+    <IdentificationExtension>0105</IdentificationExtension>
+    <IdentificationExtensionTill>0105</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW1_4</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW1 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer Technische Produktbeschreibung: Vitotronic 200 KW1 Softwarestand 4 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus)</Description>
+    <Identification>2094</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0104</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW2_5</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW2 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 1 Heizkreis mit Mischer Technische Produktbeschreibung: Vitotronic 200 KW2 Softwarestand 5 (mit Anbindung Vitosolic 100/200 über 
+KM-Bus), kein Unterschied der Daten zu Softwarestand 4</Description>
+    <Identification>2098</Identification>
+    <IdentificationExtension>0105</IdentificationExtension>
+    <IdentificationExtensionTill>0105</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V150KB1_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 150 KB1 oder KB2 Waermebedarfsgefuehrte, digitale 
+Kesselkreisregelung, 
+für 1 Heizkreis ohne Mischer Technische Produktbeschreibung: Vitotronic 150 KB1 oder KB2 Softwarestand 6 (mit Anbindung Anschlußerweiterung 
+0-10V über KM-Bus)</Description>
+    <Identification>2092</Identification>
+    <IdentificationExtension>0106</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW1_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW1  oder KW4 Witterungsgeführte, digitale Kessel- und 
+Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer Technische Produktbeschreibung: Vitotronic 200 KW1 oder KW5 Softwarestand 6 (mit Anbindung Anschlußerweiterung 
+0-10V über KM-Bus)</Description>
+    <Identification>2094</Identification>
+    <IdentificationExtension>0106</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100KC2_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 KC2 Digitale Kesselregelung
+</Description>
+    <Identification>2091</Identification>
+    <IdentificationExtension>0106</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300KW3_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 KW3 Witterungsgeführte, digitale Kessel- und Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 2 Heizkreisen mit Mischer Technische Produktbeschreibung: Vitotronic 300 KW3 Softwarestand 6 (mit Anbindung Anschlußerweiterung 0-10V 
+über KM-Bus)</Description>
+    <Identification>209C</Identification>
+    <IdentificationExtension>0106</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KW2_6</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 200 KW2 oder KW5 Witterungsgeführte, digitale Kessel- und 
+Heizkreisregelung, 
+für 1 Heizkreis ohne Mischer und 1 Heizkreis mit Mischer Technische Produktbeschreibung: Vitotronic 200 KW2 oder KW5 Softwarestand 6 (mit Anbindung Anschlußerweiterung 
+0-10V über KM-Bus)</Description>
+    <Identification>2098</Identification>
+    <IdentificationExtension>0106</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1M_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M - Witterungsgeführte, digitale Heizkreisregelung für einen 
+Heizkreis mit Mischer für die Montage an Viessmann Mischern. Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20B4</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1M_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M - Witterungsgeführte, digitale Heizkreisregelung für einen 
+Heizkreis mit Mischer für die Montage an Viessmann Mischern. Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20B4</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1M_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1M - Witterungsgeführte, digitale Heizkreisregelung für einen 
+Heizkreis mit Mischer für die Montage an Viessmann Mischern. Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung optional, neue Codierungen F8 bis 
+FB)</Description>
+    <Identification>20B4</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S03</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S03</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC2_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C7</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VDensHC2_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C1</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHO1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C5</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0127</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHC2_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C4</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VDensHO1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C2</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHC1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C3</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC2_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20CA</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VDensHC1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C0</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHO1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C8</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C6</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1_4</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 4</Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>0104</IdentificationExtension>
+    <IdentificationExtensionTill>0113</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_NZR_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma NZR, anschließbar an die MBus-Erweiterung der 
+Vitocom 300
+
+An den Ports des IC-M2 können bis zu zwei Impulsgeber gleichzeitig 
+angeschlossen werden. Alternativ kann das Impulsspeichermodul im Tarifmodus 
+betrieben werden. Ein potentialfreies Tarifumschaltsignal wird dazu an Port 2 
+angeschlossen.
+Beim IC-M2 kann jeder Port (bzw. Haupt- und Nebentarif-Stand) über eine eigene 
+MBus Primär- und Sekundäradresse angesprochen werden. Der IC-M2 verhält sich 
+also wie zwei eigenständige MBus Slaves.
+Ein weiteres Merkmal des IC-M2 ist die Stichtagsfunktion. Der Anwender kann für 
+beide Kanäle gleichzeitig einen jährlichen Stichtag setzen. Über die 
+integrierte Echtzeituhr mit Kalenderfunktion werden dann die aktuellen 
+Zählerstände am konfigurierten Datum um 00:00 Uhr (Tageswechsel zum 
+Stichtagsdatum) gesondert abgespeichert. Das Stichtagsdatum kann nachträglich 
+verändert werden, ohne dass die bis dahin gültigen Stichtagszählerstände 
+verloren gehen.</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>353233623430</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S04</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S04</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitocom300_10</ID>
+    <Description>Technische Produktbeschreibung: Vitocom 300 FA3, FI1, FE1 mit einem 3er Betriebssystem und mit einer Anwendung 
+ab Version 3.00</Description>
+    <Identification>208A</Identification>
+    <IdentificationExtension>010A</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>3</ControllerType>
+    <ErrorType>2</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_01_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Therm Typ QN 150, Variante von B501, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>313834653334_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S05</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S05</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S06</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S06</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_NZR_01_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma NZR, anschließbar an die MBus-Erweiterung der 
+Vitocom 300
+
+An den Ports des IC-M2 können bis zu zwei Impulsgeber gleichzeitig 
+angeschlossen werden. Alternativ kann das Impulsspeichermodul im Tarifmodus 
+betrieben werden. Ein potentialfreies Tarifumschaltsignal wird dazu an Port 2 
+angeschlossen.
+Beim IC-M2 kann jeder Port (bzw. Haupt- und Nebentarif-Stand) über eine eigene 
+MBus Primär- und Sekundäradresse angesprochen werden. Der IC-M2 verhält sich 
+also wie zwei eigenständige MBus Slaves.
+Ein weiteres Merkmal des IC-M2 ist die Stichtagsfunktion. Der Anwender kann für 
+beide Kanäle gleichzeitig einen jährlichen Stichtag setzen. Über die 
+integrierte Echtzeituhr mit Kalenderfunktion werden dann die aktuellen 
+Zählerstände am konfigurierten Datum um 00:00 Uhr (Tageswechsel zum 
+Stichtagsdatum) gesondert abgespeichert. Das Stichtagsdatum kann nachträglich 
+verändert werden, ohne dass die bis dahin gültigen Stichtagszählerstände 
+verloren gehen.</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>353233623430_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Metrona_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Metrona, anschließbar an die MBus-Erweiterung der 
+Vitocom 300
+
+Produkt ist mit MBus-Zähler der Fa. Siemens, Typ 2WR5 verwandt.</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323033</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBC550S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitolig Scheitholzkessel</Description>
+    <Identification>2032</Identification>
+    <Options>trending</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBC550P</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitolig Pelletkessel</Description>
+    <Identification>2033</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Calec_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Calec, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>623430356330</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_AmtronX50_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Aquametro AG, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>623430356335</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Typ PolluCom E, PolluStat E &amp; PolluTherm, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>313834653630</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Viterra_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma viterra Energy Services, Typ sensonic II und 
+istameter III, anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>363534393661</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCOM300_X_Marktmanager</ID>
+    <Identification>0701</Identification>
+    <Options>trending</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Schlumberger_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Schlumberger, Typ CF51, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>373730343061</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Viterra_01_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma viterra Energy Services, Typ sensonic II und 
+istameter III, anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>363534393661_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBC700_BW_WW</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocal-G Technische Produktbeschreibung: Vitocal-G</Description>
+    <Identification>2046</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>1</ControllerType>
+    <ErrorType>3</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitocom300_LAN</ID>
+    <Description>Technische Produktbeschreibung: Vitocom 300 FA5, FI2, GP2 und LAN2 mit Ethernet-Anschluss</Description>
+    <Identification>208A</Identification>
+    <IdentificationExtension>0110</IdentificationExtension>
+    <IdentificationExtensionTill>012F</IdentificationExtensionTill>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>3</ControllerType>
+    <ErrorType>2</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitocom200_LAN</ID>
+    <Description>Technische Produktbeschreibung: Vitocom 200 FA4, GP1 und LAN1 mit Ethernet-Anschluss</Description>
+    <Identification>208C</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>7</ControllerType>
+    <ErrorType>2</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_01_S02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Therm Typ QN 150, Variante von B501, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>313834653334_S02</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_EE_01</ID>
+    <Description>Allgemeine Produktbeschreibung: M-Bus-Zähler für elektrische Energie, Firma Nordwestdeutsche Zählerrevision, 
+Typ DHZ, anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613831353030</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_EE_02</ID>
+    <Description>Allgemeine Produktbeschreibung: M-Bus-Zähler für elektrische Energie, Firma Nordwestdeutsche Zählerrevision, 
+Typ DHZ, anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>353233623030</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_EngelmannSenso_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Engelmann Wärmezähler GmbH, Typ SensoStar, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>633531343332</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Typ PolluComE, Qn 2,5, Fa. Sensus, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>616534633038</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_NZR_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma NZR, anschließbar an die MBus-Erweiterung der 
+Vitocom 300
+
+An den Ports des IC-M2 können bis zu zwei Impulsgeber gleichzeitig 
+angeschlossen werden. Alternativ kann das Impulsspeichermodul im Tarifmodus 
+betrieben werden. Ein potentialfreies Tarifumschaltsignal wird dazu an Port 2 
+angeschlossen.
+Beim IC-M2 kann jeder Port (bzw. Haupt- und Nebentarif-Stand) über eine eigene 
+MBus Primär- und Sekundäradresse angesprochen werden. Der IC-M2 verhält sich 
+also wie zwei eigenständige MBus Slaves.
+Ein weiteres Merkmal des IC-M2 ist die Stichtagsfunktion. Der Anwender kann für 
+beide Kanäle gleichzeitig einen jährlichen Stichtag setzen. Über die 
+integrierte Echtzeituhr mit Kalenderfunktion werden dann die aktuellen 
+Zählerstände am konfigurierten Datum um 00:00 Uhr (Tageswechsel zum 
+Stichtagsdatum) gesondert abgespeichert. Das Stichtagsdatum kann nachträglich 
+verändert werden, ohne dass die bis dahin gültigen Stichtagszählerstände 
+verloren gehen.</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>353233623431</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_NZR_02_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma NZR, anschließbar an die MBus-Erweiterung der 
+Vitocom 300
+
+An den Ports des IC-M2 können bis zu zwei Impulsgeber gleichzeitig 
+angeschlossen werden. Alternativ kann das Impulsspeichermodul im Tarifmodus 
+betrieben werden. Ein potentialfreies Tarifumschaltsignal wird dazu an Port 2 
+angeschlossen.
+Beim IC-M2 kann jeder Port (bzw. Haupt- und Nebentarif-Stand) über eine eigene 
+MBus Primär- und Sekundäradresse angesprochen werden. Der IC-M2 verhält sich 
+also wie zwei eigenständige MBus Slaves.
+Ein weiteres Merkmal des IC-M2 ist die Stichtagsfunktion. Der Anwender kann für 
+beide Kanäle gleichzeitig einen jährlichen Stichtag setzen. Über die 
+integrierte Echtzeituhr mit Kalenderfunktion werden dann die aktuellen 
+Zählerstände am konfigurierten Datum um 00:00 Uhr (Tageswechsel zum 
+Stichtagsdatum) gesondert abgespeichert. Das Stichtagsdatum kann nachträglich 
+verändert werden, ohne dass die bis dahin gültigen Stichtagszählerstände 
+verloren gehen.</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>353233623431_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitogate200EIB</ID>
+    <Description>Allgemeine Produktbeschreibung: LON-EIB-Gateway ZE-Id 208B</Description>
+    <Identification>208X</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>3</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_NZR_02_S02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma NZR, anschließbar an die MBus-Erweiterung der 
+Vitocom 300
+
+An den Ports des IC-M2 können bis zu zwei Impulsgeber gleichzeitig 
+angeschlossen werden. Alternativ kann das Impulsspeichermodul im Tarifmodus 
+betrieben werden. Ein potentialfreies Tarifumschaltsignal wird dazu an Port 2 
+angeschlossen.
+Beim IC-M2 kann jeder Port (bzw. Haupt- und Nebentarif-Stand) über eine eigene 
+MBus Primär- und Sekundäradresse angesprochen werden. Der IC-M2 verhält sich 
+also wie zwei eigenständige MBus Slaves.
+Ein weiteres Merkmal des IC-M2 ist die Stichtagsfunktion. Der Anwender kann für 
+beide Kanäle gleichzeitig einen jährlichen Stichtag setzen. Über die 
+integrierte Echtzeituhr mit Kalenderfunktion werden dann die aktuellen 
+Zählerstände am konfigurierten Datum um 00:00 Uhr (Tageswechsel zum 
+Stichtagsdatum) gesondert abgespeichert. Das Stichtagsdatum kann nachträglich 
+verändert werden, ohne dass die bis dahin gültigen Stichtagszählerstände 
+verloren gehen.</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>353233623431_S02</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S07</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S07</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S08</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S08</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_X01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler - Firma unbekannt -, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>346436613831</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>WILO</ID>
+    <Identification>0700</Identification>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_04</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Typ PolluTherm, QN 25, Fa. Sensus, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>616534633062</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>_VITODATA</ID>
+    <Description>Allgemeine Produktbeschreibung: Das Pseudo-Produkt _VITODATA repräsentiert die Gesamheit aller 
+Produkt-Stammdaten. Zusammen mit den Dokumenten vom Typ Produktversion 
+dokumentieren sie die Meilensteine der Produkt-Stammdaten.</Description>
+    <Identification>-</Identification>
+    <IdentificationExtension>-</IdentificationExtension>
+    <IdentificationExtensionTill>-</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBC701</ID>
+    <Description>Allgemeine Produktbeschreibung: Regler Wärmepumpen CU700</Description>
+    <Identification>2043</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>1</ControllerType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_EngelmannSenso_01_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Engelmann Wärmezähler GmbH, Typ SensoStar, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>633531343332_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_04_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Typ PolluTherm, QN 25, Fa. Sensus, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>616534633062_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_ALL_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Allmess, Typ CF-E II, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>373730343039</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Schlumberger_02_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Schlumberger, Typ CF51, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>373730343061_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Techem_06</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Techem, Typ ?, anschließbar an die MBus-Erweiterung 
+der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>323432333031</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_KampStrup_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Kampstrup, Typ xy, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>326432633031</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_KampStrup_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Kampstrup, Typ xz, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>326432633037</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_KampStrup_04</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Kampstrup, Typ xzz, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>326432633035</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_LUG_04_S09</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Landis und Gyr, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>613733323032_S09</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_KampStrup_01_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Kampstrup, Typ 401, anschließbar an die 
+MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>326432633032_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_ABB_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma ABB, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>636434653039</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Pollu_02_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Pollu, Typ PolluCom E, PolluStat E &amp; PolluTherm, 
+anschließbar an die MBus-Erweiterung der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>313834653630_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Siemens_03_S01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Siemens, anschließbar an die MBus-Erweiterung der 
+Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>323534643031_S01</IdentificationExtension>
+    <Options>appointeddate</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus_Kalorimeter_01</ID>
+    <Description>Allgemeine Produktbeschreibung: Wärmemengenzähler der Firma Kalorimeter, anschließbar an die MBus-Erweiterung 
+der Vitocom 300</Description>
+    <Identification>0611</Identification>
+    <IdentificationExtension>373730343062</IdentificationExtension>
+    <Options>undefined</Options>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBC700_AW</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocal-A Technische Produktbeschreibung: Vitocal-A</Description>
+    <Identification>2047</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>1</ControllerType>
+    <ErrorType>3</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1S - Als Kopie von V333MW1</Description>
+    <Identification>20B9</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3WS - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung. - Als Kopie von V050HK3S</Description>
+    <Identification>20AD</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung. Als Kopie von V050HK1W eingefügt</Description>
+    <Identification>20AC</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0106</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100GC1_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 GC1 Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20A0</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100GC1_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 GC1 Technische Produktbeschreibung: Softwarestand 8 und 9 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional)</Description>
+    <Identification>20A0</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200GW1_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 GW2 Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20A4</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200GW1_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 GW2 Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional)</Description>
+    <Identification>20A4</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200GW1_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 GW2 Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional, neue Codierungen F8 bis FB)</Description>
+    <Identification>20A4</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1 Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20B8</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1 Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional)</Description>
+    <Identification>20B8</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1 Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional, neue Codierungen F8 bis FB)</Description>
+    <Identification>20B8</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1S_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1S Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20B9</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1S_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1S Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional)</Description>
+    <Identification>20B9</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW1S_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW1S Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional, neue Codierungen F8 bis FB)</Description>
+    <Identification>20B9</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V333MW2_2</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 333 MW2 (Kaskadenregelung für Wandgeräte) Technische Produktbeschreibung: Softwarestand 2 (neue Codierungen F8 bis FB)</Description>
+    <Identification>20BA</Identification>
+    <IdentificationExtension>0102</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300GW2_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 GW2 Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20A5</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300GW2_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 GW2 Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional)</Description>
+    <Identification>20A5</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300GW2_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 300 GW2 Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional, neue Codierungen F8 bis FB)</Description>
+    <Identification>20A5</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3W_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optiona</Description>
+    <Identification>20AB</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3W_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vit</Description>
+    <Identification>20AB</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3W_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3W - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vit</Description>
+    <Identification>20AB</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3S_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optiona</Description>
+    <Identification>20AD</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3S_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vit</Description>
+    <Identification>20AD</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK3S_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK3S - Witterungsgeführte, digitale Heizkreisregelung für maximal drei Heizkreise mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vit</Description>
+    <Identification>20AD</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1W_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20AA</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1W_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vitosolic 1</Description>
+    <Identification>20AA</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1W_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1W - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vitosolic 1</Description>
+    <Identification>20AA</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1S_7</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 7 (0-10V Anschlußerweiterung optional)</Description>
+    <Identification>20AC</Identification>
+    <IdentificationExtension>0107</IdentificationExtension>
+    <IdentificationExtensionTill>0107</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1S_8</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 8 (0-10V Anschlußerweiterung und Vitosolic 1</Description>
+    <Identification>20AC</Identification>
+    <IdentificationExtension>0108</IdentificationExtension>
+    <IdentificationExtensionTill>0108</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V050HK1S_9</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 050 HK1S - Witterungsgeführte, digitale Heizkreisregelung für einen Heizkreis mit Mischer und Speichertemperaturregelung. Technische Produktbeschreibung: Softwarestand 9 (0-10V Anschlußerweiterung und Vitosolic 1</Description>
+    <Identification>20AC</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>010F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1_20</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex20</Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>0114</IdentificationExtension>
+    <IdentificationExtensionTill>0127</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_20</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 20</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0114</IdentificationExtension>
+    <IdentificationExtensionTill>0127</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC1_20</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex20</Description>
+    <Identification>20C6</Identification>
+    <IdentificationExtension>0114</IdentificationExtension>
+    <IdentificationExtensionTill>0127</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHO1_20</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 20</Description>
+    <Identification>20C8</Identification>
+    <IdentificationExtension>0114</IdentificationExtension>
+    <IdentificationExtensionTill>0127</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHO1_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20C5</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHO1_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20C8</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>0145</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHC1_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20C3</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPendHC2_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20C4</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC1_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20C6</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>0181</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC2_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20C7</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>0159</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC2_40</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 40</Description>
+    <Identification>20CA</Identification>
+    <IdentificationExtension>0128</IdentificationExtension>
+    <IdentificationExtensionTill>019F</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200WO1A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocal-G mit Vitotronic 200 (Typ WO1A) (ab 08/2010)</Description>
+    <Identification>2048</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>5</ControllerType>
+    <ErrorType>3</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM18-36</ID>
+    <Description>ESS BHKW - Vitobloc EM-18/36</Description>
+    <Identification>3001</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBC702_AW</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocal 3xx mit Vitotronic 200 (Typ WO1A) (ab 08/2010)</Description>
+    <Identification>2049</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>5</ControllerType>
+    <ErrorType>3</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBC702_S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocal 200-S mit Vitotronic 200 (Typ WO1A) (ab 08/2010)</Description>
+    <Identification>204A</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>5</ControllerType>
+    <ErrorType>3</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>puffermgm</ID>
+    <Description>ESS - Puffermanagement</Description>
+    <Identification>30FF</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100GC1A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 GC1 Technische Produktbeschreibung: Softwarestand 8 und 9 (0-10V Anschlußerweiterung und Vitosolic 100/200 optional)</Description>
+    <Identification>20A1</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM50-81</ID>
+    <Description>ESS BHKW - Vitobloc EM-50/81</Description>
+    <Identification>3002</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM70-115</ID>
+    <Description>ESS BHKW - Vitobloc EM-70/115</Description>
+    <Identification>3003</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM140-207</ID>
+    <Description>ESS BHKW - Vitobloc EM-140/207</Description>
+    <Identification>3004</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM199-263</ID>
+    <Description>ESS BHKW - Vitobloc EM-199/263</Description>
+    <Identification>3005</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM199-293</ID>
+    <Description>ESS BHKW - Vitobloc EM-199/293</Description>
+    <Identification>3006</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM238-363</ID>
+    <Description>ESS BHKW - Vitobloc EM-238/363</Description>
+    <Identification>3007</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM363-498</ID>
+    <Description>ESS BHKW - Vitobloc EM-363/498</Description>
+    <Identification>3008</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM401-549</ID>
+    <Description>ESS BHKW - Vitobloc EM-401/549</Description>
+    <Identification>3009</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockBM36-66</ID>
+    <Description>ESS BHKW - Vitobloc EM-36/66</Description>
+    <Identification>300A</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockBM55-80</ID>
+    <Description>ESS BHKW - Vitobloc EM-55/80</Description>
+    <Identification>300B</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockBM98-150</ID>
+    <Description>ESS BHKW - Vitobloc EM-98/150</Description>
+    <Identification>300C</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockBM123-177</ID>
+    <Description>ESS BHKW - Vitobloc EM-123/177</Description>
+    <Identification>300D</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockBM190-238</ID>
+    <Description>ESS BHKW - Vitobloc EM-190/238</Description>
+    <Identification>300E</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockBM366-437</ID>
+    <Description>ESS BHKW - Vitobloc EM-366/437</Description>
+    <Identification>300F</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlock-Unbekannt</ID>
+    <Description>ESS BHKW - Vitobloc Unbekannt</Description>
+    <Identification>3000</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300GW2A</ID>
+    <Description>Technische Produktbeschreibung: NR2 2011, GW5B für Systemregler 2013</Description>
+    <Identification>20A6</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200HK3A</ID>
+    <Description>Technische Produktbeschreibung: NR2 2011</Description>
+    <Identification>20AE</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300KMW1A</ID>
+    <Description>Technische Produktbeschreibung: Kaskade NR2 2011</Description>
+    <Identification>20BB</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300KMW2A</ID>
+    <Description>Technische Produktbeschreibung: Kaskade NR2 2011</Description>
+    <Identification>20BC</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200KO2B</ID>
+    <Description>Technische Produktbeschreibung: NR1 2011</Description>
+    <Identification>209F</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100KC4B</ID>
+    <Description>Technische Produktbeschreibung: NR1 2011</Description>
+    <Identification>209D</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_70</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 70 (Projekt Neptun)</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0146</IdentificationExtension>
+    <IdentificationExtensionTill>0147</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitocom100_LAN</ID>
+    <Description>Technische Produktbeschreibung: Vitocom 100 LAN1 (Heizungsrouter)</Description>
+    <Identification>208D</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>8</ControllerType>
+    <ErrorType>2</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_72</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 72 (Projekt Neptun)</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0148</IdentificationExtension>
+    <IdentificationExtensionTill>0159</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitocom200_LAN_GP</ID>
+    <Description>Technische Produktbeschreibung: Vitocom 200 LAN / GPRS</Description>
+    <Identification>208E</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>9</ControllerType>
+    <ErrorType>2</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>CU401B_G</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocalxxx-G mit Vitotronic 200 (Typ WO1C) (ab 04/2012)</Description>
+    <Identification>204B</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>11</ControllerType>
+    <ErrorType>6</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1_90</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 90 (Projekt Jupiter)</Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>015A</IdentificationExtension>
+    <IdentificationExtensionTill>0181</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_90</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 90 (Projekt Jupiter)</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>015A</IdentificationExtension>
+    <IdentificationExtensionTill>0181</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>CU401B_A</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocalxxx-A mit Vitotronic 200 (Typ WO1C) (ab 04/2012)</Description>
+    <Identification>204C</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>11</ControllerType>
+    <ErrorType>6</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>CU401B_S</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitocalxxx-S mit Vitotronic 200 (Typ WO1C) (ab 04/2012)</Description>
+    <Identification>204D</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>11</ControllerType>
+    <ErrorType>6</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM20-39</ID>
+    <Description>ESS BHKW - Vitobloc EM-20/39</Description>
+    <Identification>3010</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM5</ID>
+    <Description>ESS BHKW - Vitobloc EM-5 / 13</Description>
+    <Identification>3011</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitocom300_LAN_GP_Analog</ID>
+    <Description>Technische Produktbeschreibung: Vitocom 300 LAN / GPRS / Analog</Description>
+    <Identification>208F</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>10</ControllerType>
+    <ErrorType>2</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|4</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|4</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|22</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|22</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>VitotwinGW_BATI</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotwin-Gateway Typ BATI</Description>
+    <Identification>0810</Identification>
+    <IdentificationExtension>0100</IdentificationExtension>
+    <IdentificationExtensionTill>0101</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>12</ControllerType>
+    <ErrorType>7</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|6</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|6</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|0</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|0</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|1</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|1</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|2</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|2</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|3</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|3</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|5</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|5</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|7</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|7</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|8</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|8</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|9</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|9</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|10</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|10</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|11</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|11</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|12</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|12</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|13</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|13</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|14</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|14</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|15</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|15</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|16</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|16</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|17</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|17</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|18</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|18</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|19</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|19</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|20</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|20</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|21</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|21</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|23</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|23</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|24</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|24</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|25</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|25</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|26</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|26</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|27</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|27</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|28</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|28</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|29</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|29</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|30</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|30</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|31</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|31</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|32</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|32</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|33</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|33</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|34</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|34</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|35</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|35</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|36</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|36</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|37</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|37</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|38</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|38</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|39</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|39</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|41</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|41</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|40</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|40</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>VirtualHydraulicCalibration</ID>
+    <Description>Virtueller Regelungstyp für den hydraulischen Abgleich.</Description>
+    <Identification>FFFF</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM20-39_18</ID>
+    <Description>ESS BHKW - Vitobloc EM-20/39 SAP: 7519058</Description>
+    <Identification>3012</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300MW3B</ID>
+    <Description>Technische Produktbeschreibung: Systemregler 2013</Description>
+    <Identification>20BD</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100GC1C</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotronic 100 GC1C für Systemregler 2013</Description>
+    <Identification>20A2</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VSorp</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 150 (Vitosorp)</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0196</IdentificationExtension>
+    <IdentificationExtensionTill>01C7</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>EA2</ID>
+    <Description>Anschlusserweiterung EA2 für Systemregler 2013</Description>
+    <Identification>20A3</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitovalor</ID>
+    <Description>Technische Produktbeschreibung: Vitovalor 300-P</Description>
+    <Identification>20E3</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCaldens</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 130 (Projekt Vitocaldens)</Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>0182</IdentificationExtension>
+    <IdentificationExtensionTill>0195</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VCaldens_HO1</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 150 (Projekt Vitocaldens)</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>0182</IdentificationExtension>
+    <IdentificationExtensionTill>0195</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|101</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|101</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>MBus|102</ID>
+    <Description>@@viessmann.datapointtype.name.MBus|102</Description>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM6-15</ID>
+    <Description>ESS BHKW - Vitobloc EM-6/15</Description>
+    <Identification>3013</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM9-20</ID>
+    <Description>ESS BHKW - Vitobloc EM-9/20</Description>
+    <Identification>3014</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VBlockEM530-660</ID>
+    <Description>ESS BHKW - Vitobloc EM-530/660</Description>
+    <Identification>3015</Identification>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>4</ControllerType>
+    <ErrorType>4</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300GW6B</ID>
+    <Description>Technische Produktbeschreibung: Vitotronic 300 GW6B</Description>
+    <Identification>20BE</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitogate300BN</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitogate 300 BN (BACnet) oder MB (Modbus)</Description>
+    <Identification>0830</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>12</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_200</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200, Projekt Vitodens 300 mit HO2B</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>0</F0>
+    <F0Till>0</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VitotwinGW_BATI_02</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotwin-Gateway Typ BATI</Description>
+    <Identification>0810</Identification>
+    <IdentificationExtension>0102</IdentificationExtension>
+    <IdentificationExtensionTill>0102</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>12</ControllerType>
+    <ErrorType>7</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_200_10</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200, Projekt Vitodens 200 mit HO1B</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>10</F0>
+    <F0Till>10</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1_200_10</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200 , Vitdens 200 2015</Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>10</F0>
+    <F0Till>19</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_200_20</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200, F0: 20 - 29</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>20</F0>
+    <F0Till>29</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>BESS</ID>
+    <Description>BatteryEnergyStorageSystem</Description>
+    <Identification>2502</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Ecotronic</ID>
+    <Description>Allgemeine Produktbeschreibung: Ecotronic Köb</Description>
+    <Identification>2034</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC2_200_11</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200 ,F0 : 11,  Vitdens 200 HC2  2016</Description>
+    <Identification>20CA</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>11</F0>
+    <F0Till>19</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VPlusHC1_130</ID>
+    <Description>ab Softwareindex 130 (Projekt Vitolacaldens, Öl-Hybrid-WP)</Description>
+    <Identification>20C6</Identification>
+    <IdentificationExtension>0182</IdentificationExtension>
+    <IdentificationExtensionTill>0195</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_200_11</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200, Projekt Vitodens 200 mit HO1B ab 04/2016</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>11</F0>
+    <F0Till>19</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_200_01</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200, Projekt Vitodens 300 mit HO2B, ab 08/2016 mit Lüftungsbedienung</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>1</F0>
+    <F0Till>9</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>Vitogate200KNX</ID>
+    <Description>Allgemeine Produktbeschreibung: KNX-Gateway ZE-Id 0820</Description>
+    <Identification>0820</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>3</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>Ecotronic_100</ID>
+    <Description>Allgemeine Produktbeschreibung: Ecotronic 100 Köb</Description>
+    <Identification>2035</Identification>
+    <Options>trending</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>OpenTherm_9_84</ID>
+    <Description>Erste Version eines OT Gerätes mit angepasstem SW Index</Description>
+    <Identification>2621</Identification>
+    <IdentificationExtension>0109</IdentificationExtension>
+    <IdentificationExtensionTill>0109</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>0</ErrorType>
+    <F0>84</F0>
+    <F0Till>84</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VitotwinGW_BATI_03</ID>
+    <Description>Allgemeine Produktbeschreibung: Vitotwin-Gateway Typ BATI</Description>
+    <Identification>0810</Identification>
+    <IdentificationExtension>0103</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>1</EventOptimisation>
+    <ControllerType>12</ControllerType>
+    <ErrorType>7</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>OpenTherm_DEFAULT</ID>
+    <Description>Defaultregler ohne TSP</Description>
+    <Identification>26FF</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>0</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V100CC1x</ID>
+    <Description>Allgemeine Produktbeschreibung: 
+Vitotronic 100 CC1E und Vitotronic CC1I (NRP1.0)
+Konstant-Kesselregelung für Ein-und Mehrkesselanwendungen</Description>
+    <Identification>20A7</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V200CO1x</ID>
+    <Description>Vitotronic 200 CO1E / CO1I</Description>
+    <Identification>20A9</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>V300CM1x</ID>
+    <Description>Vitotronic 300 CM1E / CM1I</Description>
+    <Identification>20BF</Identification>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549</EventOptimisationExceptionList>
+    <ControllerType>2</ControllerType>
+    <ErrorType>1</ErrorType>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1_200_30</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200 , F0: 30 - 39, Vitocrossal 100 </Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>30</F0>
+    <F0Till>39</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHO1_200_30</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200, Vitocrossal 100, F0: 30 - 39</Description>
+    <Identification>20CB</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <EventOptimisationExceptionList>ExtBetriebsartenumschaltung_A1M1~0x2549;ExtBetriebsartenumschaltung_M2~0x3549;Neptun_ParamFoerderhoehe~0x7688;Neptun_ParamDifferenzdruck~0x7680</EventOptimisationExceptionList>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>30</F0>
+    <F0Till>39</F0Till>
+  </DataPointType>
+  <DataPointType>
+    <ID>VScotHC1_200</ID>
+    <Description>Technische Produktbeschreibung: ab Softwareindex 200 , Vitdens 200 2016</Description>
+    <Identification>20C9</Identification>
+    <IdentificationExtension>01C8</IdentificationExtension>
+    <IdentificationExtensionTill>01FF</IdentificationExtensionTill>
+    <Options>undefined</Options>
+    <EventOptimisation>0</EventOptimisation>
+    <ControllerType>0</ControllerType>
+    <ErrorType>1</ErrorType>
+    <F0>0</F0>
+    <F0Till>9</F0Till>
+  </DataPointType>
+</DataPointTypes>

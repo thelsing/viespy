@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<EventTypes>
+  <EventType>
+    <Name>sysDeviceIdent</Name>
+    <ID>sysDeviceIdent</ID>
+    <Active>true</Active>
+    <Priority>1</Priority>
+    <DataType>Readonly</DataType>
+    <SDKDataType>ByteArray</SDKDataType>
+    <AccessMode>Read</AccessMode>
+    <Address>0x00F8</Address>
+    <FCRead>Virtual_READ</FCRead>
+    <FCWrite>undefined</FCWrite>
+    <Parameter>Byte</Parameter>
+    <BlockLength>8</BlockLength>
+    <BytePosition>0</BytePosition>
+    <ByteLength>8</ByteLength>
+  </EventType>    
+</EventTypes>
